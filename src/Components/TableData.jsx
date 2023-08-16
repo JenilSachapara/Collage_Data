@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import FileSaver, { saveAs } from "file-saver";
+import FileSaver from "file-saver";
 import XLSX from 'sheetjs-style'
 import { data } from './Data'
 
